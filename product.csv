@@ -1,0 +1,4 @@
+product_id,product_Name,qty,price,order_id
+product1,glosary,1,500,order1
+product2,computer,1,50000,order2
+product3,music system,1,6000,order3

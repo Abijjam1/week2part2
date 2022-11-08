@@ -1,0 +1,20 @@
+﻿<Categories>
+  <Category>
+    <Catagory_id>category1</Catagory_id>
+    <Category_name>glosary item</Category_name>
+    <Description>light weight product</Description>
+    <product_id>product1</product_id>
+  </Category>
+  <Category>
+    <Catagory_id>category2</Catagory_id>
+    <Category_name>computer</Category_name>
+    <Description>weighted product</Description>
+    <product_id>product2</product_id>
+  </Category>
+  <Category>
+    <Catagory_id>category3</Catagory_id>
+    <Category_name>music system</Category_name>
+    <Description>weighted product</Description>
+    <product_id>product3</product_id>
+  </Category>
+</Categories>

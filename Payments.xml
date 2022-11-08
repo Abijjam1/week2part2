@@ -1,0 +1,20 @@
+﻿<Payments>
+  <Payment>
+    <payment_id>payment1</payment_id>
+    <total_pay>700</total_pay>
+    <method>online</method>
+    <Customer_id>customer1</Customer_id>
+  </Payment>
+  <Payment>
+    <payment_id>payment2</payment_id>
+    <total_pay>800</total_pay>
+    <method>cash</method>
+    <Customer_id>customer1</Customer_id>
+  </Payment>
+  <Payment>
+    <payment_id>payment3</payment_id>
+    <total_pay>900</total_pay>
+    <method>online</method>
+    <Customer_id>customer1</Customer_id>
+  </Payment>
+</Payments>

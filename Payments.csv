@@ -1,0 +1,4 @@
+payment_id,total_pay,method,Customer_id
+payment1,700,online,customer1
+payment2,800,cash,customer1
+payment3,900,online,customer1

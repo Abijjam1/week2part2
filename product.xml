@@ -1,0 +1,23 @@
+﻿<products>
+  <product>
+    <product_id>product1</product_id>
+    <product_Name>glosary</product_Name>
+    <qty>1</qty>
+    <price>500</price>
+    <order_id>order1</order_id>
+  </product>
+  <product>
+    <product_id>product2</product_id>
+    <product_Name>computer</product_Name>
+    <qty>1</qty>
+    <price>50000</price>
+    <order_id>order2</order_id>
+  </product>
+  <product>
+    <product_id>product3</product_id>
+    <product_Name>music system</product_Name>
+    <qty>1</qty>
+    <price>6000</price>
+    <order_id>order3</order_id>
+  </product>
+</products>

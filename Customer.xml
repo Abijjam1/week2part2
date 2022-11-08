@@ -1,0 +1,23 @@
+﻿<Customer>
+  <Customers>
+    <Customer_id>customer1</Customer_id>
+    <Customer_Name>mitchel</Customer_Name>
+    <Address>paris</Address>
+    <date>2022-11-10</date>
+    <order_id>order1</order_id>
+  </Customers>
+  <Customers>
+    <Customer_id>customer2</Customer_id>
+    <Customer_Name>tom</Customer_Name>
+    <Address>new york</Address>
+    <date>2022-11-15</date>
+    <order_id>order2</order_id>
+  </Customers>
+  <Customers>
+    <Customer_id>customer3</Customer_id>
+    <Customer_Name>jackey</Customer_Name>
+    <Address>london</Address>
+    <date>2022-11-20</date>
+    <order_id>order3</order_id>
+  </Customers>
+</Customer>

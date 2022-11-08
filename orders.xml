@@ -1,0 +1,17 @@
+﻿<orders_table>
+  <orders>
+    <order_id>order1</order_id>
+    <Date>2022-11-10</Date>
+    <Shop_Name>bazzar</Shop_Name>
+  </orders>
+  <orders>
+    <order_id>order2</order_id>
+    <Date>2022-11-15</Date>
+    <Shop_Name>center mall</Shop_Name>
+  </orders>
+  <orders>
+    <order_id>order3</order_id>
+    <Date>2022-11-20</Date>
+    <Shop_Name>city mall</Shop_Name>
+  </orders>
+</orders_table>

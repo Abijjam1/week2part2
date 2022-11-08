@@ -1,0 +1,4 @@
+Customer_id,Customer_Name,Address,date,order_id
+customer1,mitchel,paris,2022-11-10,order1
+customer2,tom,new york,2022-11-15,order2
+customer3,jackey,london,2022-11-20,order3
